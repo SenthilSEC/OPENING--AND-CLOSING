@@ -95,19 +95,22 @@ plt.show()
 ## Output:
 ### Display the input Image
 
+<img width="398" height="256" alt="image" src="https://github.com/user-attachments/assets/33f1fcfe-a9bd-463e-b462-5f9e88f08f69" />
 
-![dip-1](https://github.com/Keerthanasampathkumar/OPENING--AND-CLOSING/assets/119477890/9bbf4d19-2c2e-4b29-a416-537ca04e3cc4)
 
 
 ### Display the result of Opening
 
-![dip-2](https://github.com/Keerthanasampathkumar/OPENING--AND-CLOSING/assets/119477890/2676a2a3-7146-4b08-a1f2-13bf703313fd)
+
+<img width="202" height="146" alt="image" src="https://github.com/user-attachments/assets/df4d546a-8881-498f-a21e-6946d577c978" />
+
 
 
 
 ### Display the result of Closing
 
-![dip-3](https://github.com/Keerthanasampathkumar/OPENING--AND-CLOSING/assets/119477890/4d4e3db2-8976-42f3-9dc7-bc6ff94060b5)
+<img width="202" height="146" alt="image" src="https://github.com/user-attachments/assets/8b687124-e746-4fac-b0f4-374d3bffd080" />
+
 
 
 ## Result
